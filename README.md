@@ -1,4 +1,4 @@
-#react-google-books
+# react-google-books
 
 An app powered by React and MongoDB that allows users to search for books using Google's Books API and mangage a list of books of interest through a Mongo database.
 
